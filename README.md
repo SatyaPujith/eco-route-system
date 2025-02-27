@@ -66,5 +66,19 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
+## How To Run Repositry
+
+Step1: Download zip file and extract it
+Step2: open cmd and navigate to project repositry (This should be done in two cmd's)
+Step3: now use the commands in cmd's 
+  In 1st cmd: npm install && npm run dev
+  In 2nd cmd: php migrate && php artisan serve (make sure you have installed artisan, composer, php)
+Step4: Open the port visible on 2nd cmd visible like [https://](http://127.0.0.1:8000/) 
+
+Note: you should have to use the sql database hostname, password.... and Google maps API key....
+  
+
+
+
 
 
